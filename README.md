@@ -1,42 +1,5 @@
 
----
 
-```markdown
-# Escape the Matrix
-
-![Banner](https://via.placeholder.com/1200x400.png?text=Escape+the+Matrix+Banner)
-
-**Escape the Matrix** is a powerful stock analysis tool designed to help traders and investors make informed decisions using advanced technical indicators and AI-powered insights. This tool fetches real-time stock data from multiple APIs, calculates key technical indicators, and provides actionable recommendations.
-
----
-
-## Features
-
-- **Advanced Stock Analysis**:
-  - Fetch real-time stock data from **Alpha Vantage**.
-  - Calculate technical indicators like **RSI**, **SMA**, **MACD**, and **Williams %R**.
-  - Generate **STRONG BUY**, **STRONG SELL**, or **HOLD** recommendations.
-
-- **FMP Indicator Analysis**:
-  - Fetch and analyze technical indicators from **Financial Modeling Prep (FMP)**.
-  - Includes **RSI**, **SMA**, **MACD**, **WMA**, **TEMA**, **Williams %R**, and **ADX**.
-
-- **Finhub AI Bot**:
-  - Get AI-powered insights and sentiment analysis from **Finhub**.
-
-- **User-Friendly Interface**:
-  - Interactive menu system for easy navigation.
-  - Clear and formatted output for quick analysis.
-
----
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/SWORD-SAINT69/escape-the-matrix.git
-   cd escape-the-matrix
-   ```
 
 2. **Install Dependencies**:
    ```bash
